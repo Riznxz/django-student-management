@@ -21,8 +21,8 @@ This system lets you **Add**, **Edit**, **View**, and **Delete** student informa
 | Area        | Technology          |
 |-------------|---------------------|
 | 💻 Frontend | HTML, CSS, JavaScript (or Bootstrap) |
-| 🧠 Backend  | Python + Flask / Django *(choose yours)* |
-| 🗄️ Database | SQLite / MySQL *(choose yours)* |
+| 🧠 Backend  | Python + Django  |
+| 🗄️ Database | SQLite |
 | 🔧 Tools    | Git, GitHub, VS Code |
 
 ---
